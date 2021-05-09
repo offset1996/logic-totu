@@ -1,0 +1,46 @@
+[
+    {
+        "_id": 1,
+        "propertyName": "ทดสอบกรอกข้อมูลเพื่ออะไร",
+        "status": true,
+        "attributes": [
+            {
+                "_id": 1,
+                "attributeName": "Lead Excellent",
+                "isChecked": true
+            },
+            {
+                "_id": 2,
+                "attributeName": "Lead Good",
+                "isChecked": true
+            },
+            {
+                "_id": 3,
+                "attributeName": "Lead non-protect",
+                "isChecked": true
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "propertyName": "กรอกข้อมแก้ไขการทดสอบการแก้ไข",
+        "status": true,
+        "attributes": [
+            {
+                "_id": 1,
+                "attributeName": "Lead Excellent",
+                "isChecked": true
+            },
+            {
+                "_id": 2,
+                "attributeName": "Lead Good",
+                "isChecked": true
+            },
+            {
+                "_id": 3,
+                "attributeName": "Lead non-protect",
+                "isChecked": true
+            }
+        ]
+    }
+]

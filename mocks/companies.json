@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "juristicId": 1150,
+        "bussinesSize": "S",
+        "shipments": 1500000,
+        "exportVal": 1500000,
+        "term": 15,
+        "properties":[
+            {
+                "_id": 1,
+                "property_name": "ทดสอบกรอกข้อมูลเพื่ออะไร",
+                "status": true,
+                "attributes": [
+                    {
+                        "_id": 1,
+                        "attributeName": "Lead Excellent",
+                        "isChecked": true
+                    }
+                ]
+            },
+            {
+                "_id": 2,
+                "property_name": "กรอกข้อมแก้ไขการทดสอบการแก้ไข",
+                "status": true,
+                "attributes": [
+                    {
+                        "_id": 2,
+                        "attributeName": "Lead Good",
+                        "isChecked": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "juristicId": 1155,
+        "bussinesSize": "M",
+        "shipments": 1500000,
+        "exportVal": 1500000,
+        "term": 15,
+        "properties":[
+            {
+                "_id": 1,
+                "property_name": "ทดสอบกรอกข้อมูลเพื่ออะไร",
+                "status": true,
+                "attributes": [
+                    {
+                        "_id": 1,
+                        "attributeName": "Lead Excellent",
+                        "isChecked": true
+                    }
+                ]
+            },
+            {
+                "_id": 1,
+                "property_name": "กรอกข้อมแก้ไขการทดสอบการแก้ไข",
+                "status": true,
+                "attributes": [
+                    {
+                        "_id": 1,
+                        "attributeName": "Lead Good",
+                        "isChecked": true
+                    }
+                ]
+            }
+        ]
+    }
+]
